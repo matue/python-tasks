@@ -39,3 +39,5 @@ print(E.genExample())
 
 A = int(input())
 print(E.checkExample(A))
+
+1
